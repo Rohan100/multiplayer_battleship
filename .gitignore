@@ -1,0 +1,9 @@
+
+backend/node_modules
+
+battleship/build
+battleship/node_modules
+**/*.log
+
+# Environment files
+**/.env
